@@ -21,7 +21,7 @@ This version has been developed based on the previous work found in the followin
 git clone https://github.com/b1n4ri0/SVD-Loader-PyGhidra-RP2350.git 
 ```
 
-2. Copy the script file into the `ghidra_scripts directory of your Ghidra installation.
+2. Copy the script file into the `ghidra_scripts` directory of your Ghidra installation.
 
 ```bash
 cd SVD-Loader-PyGhidra-RP2350
