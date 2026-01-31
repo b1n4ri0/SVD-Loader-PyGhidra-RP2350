@@ -15,16 +15,17 @@ This version has been developed based on the previous work found in the followin
 
 ## Installation
 
-1. Download this repository or the SVD-Loader-RP2350.py file directly.
+1. Download this repository or the `SVD-Loader-RP2350.py` file directly.
 
 ```bash
 git clone https://github.com/b1n4ri0/SVD-Loader-PyGhidra-RP2350.git 
 ```
 
-2. Copy the script file into the ghidra_scripts directory of your Ghidra installation.
+2. Copy the script file into the `ghidra_scripts directory of your Ghidra installation.
 
 ```bash
 cd SVD-Loader-PyGhidra-RP2350
+
 cp SVD-Loader-RP2350.py $GHIDRA_INSTALL_DIR/Ghidra/Features/PyGhidra/ghidra_scripts
 ```
 
